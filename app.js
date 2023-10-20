@@ -1,3 +1,7 @@
+/*este codigo fue creado por el instructor ORLANDO CASTRO y modificado por Maria,
+tiene como proposito invertir numeros, como numeros en cadena, texto invertido como texto en cadena,
+y mostrar el resultado de las conversiones 
+*/ 
 require("colors");
 
 const math = require('./proy_modules/math.js');
